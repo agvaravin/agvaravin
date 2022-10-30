@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td>[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" />][DataAnalitic]</td>
+    <td><a href=[DataAnalitic]"><img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" /></td>
   </tr>
   <tr>
     Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.
