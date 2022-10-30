@@ -1,4 +1,4 @@
 # ПРИВЕТ
 Это тестовая страничка для моего профайл, где я тренирую свои навыки в оформлении. ыва ыва ыва ыва а а ыва ыва ыва ыва ыа ыва ыва ыа ыа ыва ыа ыа вававаыа ыва ва вавававв ы ав ыва ыа ыва ыва 
 
-<img alighn="middle" alt="html5" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg"/>
+<img align="middle" alt="html5" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg"/>
