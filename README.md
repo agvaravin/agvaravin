@@ -5,5 +5,13 @@
 |--:|:--|
 |[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" />][DataAnalitic]|Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.|
 
+<table>
+  <tr>
+    <td>[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" />][DataAnalitic]</td>
+  </tr>
+  <tr>
+    Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.
+  </tr>
+</table>
 
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
