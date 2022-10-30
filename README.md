@@ -8,4 +8,4 @@
 |[<img alt="html5" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" />][DataAnalitic]|Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.|
 
 
-[DataAnalitic]:[https://github.com/agvaravin/DataAnalitic]
+[DataAnalitic]: https://github.com/agvaravin/DataAnalitic
