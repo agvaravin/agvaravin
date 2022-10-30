@@ -6,7 +6,7 @@
 |[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" />][DataAnalitic]|Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.|
 
 <table border="0" bordercolor = "#ffffff">
-  <tr>
+  <tr border="0" bordercolor = "#ffffff">
     <td><a href=[DataAnalitic]"><img title="Портфолио Аналитика Данных" width="120" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" /></a></td>
     <td>Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.</td>
   </tr>
