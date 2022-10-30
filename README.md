@@ -5,9 +5,9 @@
 |--:|:--|
 |[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" />][DataAnalitic]|Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.|
 
-<table>
+<table border="0">
   <tr>
-    <td><a href=[DataAnalitic]"><img title="Портфолио Аналитика Данных" width="20" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" /></a></td>
+    <td><a href=[DataAnalitic]"><img title="Портфолио Аналитика Данных" width="60" src="https://github.com/agvaravin/agvaravin/blob/main/pche.jpg" /></a></td>
     <td>Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.</td>
   </tr>
 </table>
