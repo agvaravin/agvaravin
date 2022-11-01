@@ -2,14 +2,12 @@
 
 [<img title="Мой Телеграм" width="48" align="left" src="https://github.com/agvaravin/agvaravin/blob/main/pix/ico/telegram.png" />][MyTelegram]
 Я написал свою первую программу в 14 лет и это была программа на [Электроника МК61][MK61].
-<a href="#">Электроника МК61<span>Мой первый программируемый объект<img src="https://github.com/agvaravin/agvaravin/blob/main/pix/MK61.jpg" width="500"/></span></a>
-Источник: https://stimylrosta.com.ua/spravochnik-po-css/91-vsplyvayushchee-izobrazhenie-pri-navedenii-na-ssylku
-С тех пор я стараюсь писать на всем, что программируется. Да, большинство из этого уже не актуально, но это не меняет мои принципы.
-Ниже - кратко мои актуальные навыки.
-|[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_ad.jpg" />][DataAnalitic]|Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.|
+С тех пор я стараюсь кодить для всего, что программируется. Да, многое из этого уже в прошлом, поэтому ниже кратко - мои **актуальные навыки**.
+|[<img title="Портфолио Аналитика Данных" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_ad.jpg" />][DataAnalitic]|[`АНАЛИТИК ДАННЫХ (june)`][DataAnalitic] Моя «альма-матер» (РГУ, мехмат, прикладная математика) учила меня в том числе матстатистике и теории вероятности. С тех пор совершенствуюсь.|
 |--:|:--|
-|[<img title="Портфолио Аналитика Данных" width="200" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_java.jpg" />][DataAnalitic]|**Просто некий описательный текст для картинки. Он нужен, чтобы проверить как текст варавнивается и размещается относительно изображения.**|
+|[<img title="Портфолио Аналитика Данных" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_java.jpg" />][Java-dev]|**[`JAVA-разработчик (june)`][Java-dev] Обучаюсь в online-школе JavaRush, пока только учебные проекты.**|
 
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
+[Java-dev]: https://github.com/agvaravin/DataAnalitic
 [MyTelegram]: https://t.me/AGVaravin
-[MK61]: www.ya.ru
+[MK61]: https://github.com/agvaravin/agvaravin/blob/main/pix/MK61.jpg
