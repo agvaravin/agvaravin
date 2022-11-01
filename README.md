@@ -16,5 +16,5 @@
 
 [MyTelegram]: https://t.me/AGVaravin
 [MyEmail]: mailto://agvaravin@yandex.ru
-[MyTel]: tel://+79185556656
+[MyTel]: tel:+79185556656
 [MK61]: https://github.com/agvaravin/agvaravin/blob/main/pix/MK-61.jpg
