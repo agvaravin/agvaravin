@@ -10,4 +10,4 @@
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
 [Java-dev]: https://github.com/agvaravin/DataAnalitic
 [MyTelegram]: https://t.me/AGVaravin
-[MK61]: https://github.com/agvaravin/agvaravin/blob/main/pix/MK61.jpg
+[MK61]: https://github.com/agvaravin/agvaravin/blob/main/pix/MK-61.jpg
