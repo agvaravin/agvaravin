@@ -6,8 +6,11 @@
 |[<img title="Портфолио Аналитика Данных" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_ad.jpg" />][DataAnalitic]|[`АНАЛИТИК ДАННЫХ (june)`][DataAnalitic] Моя «альма-матер» (РГУ, мехмат, прикладная математика) учила меня в том числе матстатистике и теории вероятности. С тех пор совершенствуюсь.|
 |--:|:--|
 |[<img title="Портфолио Аналитика Данных" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_java.jpg" />][Java-dev]|**[`JAVA-разработчик (june)`][Java-dev] Обучаюсь в online-школе JavaRush, пока только учебные проекты.**|
+|[<img title="Портфолио Проекты" width="400" src="https://github.com/agvaravin/agvaravin/blob/main/pix/rocket.gif" />][Projects]|**[`JAVA-разработчик (june)`][Projects] Обучаюсь в online-школе JavaRush, пока только учебные проекты.**|
 
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
 [Java-dev]: https://github.com/agvaravin/DataAnalitic
+[Projects]: https://github.com/agvaravin/DataAnalitic
+
 [MyTelegram]: https://t.me/AGVaravin
 [MK61]: https://github.com/agvaravin/agvaravin/blob/main/pix/MK-61.jpg
