@@ -1,5 +1,5 @@
 # ПРИВЕТ ВСЕМ
-[<img title="Мой Телеграм" width="48" src="https://github.com/agvaravin/agvaravin/blob/main/pix/ico/telegram.png" />][MyTelegram]
+[<img title="Мой Телеграм" width="48" align="right" src="https://github.com/agvaravin/agvaravin/blob/main/pix/ico/telegram.png" />][MyTelegram]
 
 
 Это тестовая страничка для моего профайл, где я тренирую свои навыки в оформлении.
