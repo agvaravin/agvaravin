@@ -8,7 +8,7 @@
 |--:|:--|
 |[<img title="Портфолио Аналитика Данных" width="300" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_java.jpg" />][Java-dev]|**[`JAVA-разработчик (pre june)`][Java-dev] Обучаюсь в online-школе JavaRush, пока только учебные проекты.**|
 
-
+![](https://komarev.com/ghpvc/?username=agvaravin)
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
 [Java-dev]: https://github.com/agvaravin/DataAnalitic
 [Projects]: https://github.com/agvaravin/DataAnalitic
