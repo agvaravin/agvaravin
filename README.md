@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=agvaravin)
 
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
-[Java-dev]: [https://github.com/agvaravin/JavaRushTasks]
+[Java-dev]: https://github.com/agvaravin/JavaRushTasks
 [Projects]: https://github.com/agvaravin/DataAnalitic
 
 [MyTelegram]: https://t.me/AGVaravin
