@@ -1,4 +1,4 @@
-# Настоящий программист гораздо больше читает, чем пишет
+# Настоящий программист гораздо больше читает, чем пишет [^.]
 
 [<img title="Мой Телеграм" width="48" align="left" src="https://github.com/agvaravin/agvaravin/blob/main/pix/ico/telegram.png" />][MyTelegram]
 [<img title="Моя почта" width="48" align="left" src="https://github.com/agvaravin/agvaravin/blob/main/pix/ico/email.png" />][MyEmail]
@@ -9,6 +9,8 @@
 |[<img title="Портфолио Аналитика Данных" width="300" src="https://github.com/agvaravin/agvaravin/blob/main/pix/main_java.jpg" />][Java-dev]|**[`JAVA-разработчик (pre june)`][Java-dev] Обучаюсь в online-школе JavaRush, пока только учебные проекты.**|
 
 ![](https://komarev.com/ghpvc/?username=agvaravin)
+
+[^.]: Линус Торвальдс, создатель `Linux` и `Git`
 
 [DataAnalitic]: https://github.com/agvaravin/DataAnalitic
 [Java-dev]: https://github.com/agvaravin/JavaRushTasks
